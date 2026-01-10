@@ -1,0 +1,2 @@
+# Ignore Maven build output for spring-boot-app
+/java-maven-sonar-argocd-helm-k8s/spring-boot-app/target/
